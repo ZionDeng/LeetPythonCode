@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb0d8d72-add6-4725-abde-7226c6ce2919" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/venv/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/code_follow$binary_tree.coverage" NAME="binary_tree Coverage Results" MODIFIED="1593786356975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree_follow" />
+    <SUITE FILE_PATH="coverage/code_follow$bubble_sort.coverage" NAME="bubble_sort Coverage Results" MODIFIED="1593518854985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sort_follow" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1180077070">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="951" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="951" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sort_follow/bubble_sort.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tree_follow/binary_tree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1325">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stack_and_queue/queue_.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sort_follow/bubble_sort.py" />
+        <option value="$PROJECT_DIR$/tree_follow/binary_tree.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="930" />
+  </component>
+  <component name="ProjectId" id="1clWeH7bAfbIQCCEd8JqKyShWYR" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="code_follow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Python/myLeisure" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Algorithm\tutorial_algorithm\code_follow\stack_and_queue" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.binary_tree">
+    <configuration name="binary_tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code_follow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tree_follow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tree_follow/binary_tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bubble_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code_follow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sort_follow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sort_follow/bubble_sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fast_follow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code_follow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sort_follow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sort_follow/fast_follow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="insert_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code_follow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sort_follow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sort_follow/insert_sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="shell_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code_follow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sort_follow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sort_follow/shell_sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.bubble_sort" />
+      <item itemvalue="Python.fast_follow" />
+      <item itemvalue="Python.insert_sort" />
+      <item itemvalue="Python.shell_sort" />
+      <item itemvalue="Python.binary_tree" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.binary_tree" />
+        <item itemvalue="Python.bubble_sort" />
+        <item itemvalue="Python.fast_follow" />
+        <item itemvalue="Python.shell_sort" />
+        <item itemvalue="Python.insert_sort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb0d8d72-add6-4725-abde-7226c6ce2919" name="Default Changelist" comment="" />
+      <created>1591103753219</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591103753219</updated>
+      <workItem from="1591103754687" duration="1402000" />
+      <workItem from="1591325099455" duration="1206000" />
+      <workItem from="1591356746988" duration="37000" />
+      <workItem from="1591587588262" duration="603000" />
+      <workItem from="1591618008568" duration="2878000" />
+      <workItem from="1591775017571" duration="5724000" />
+      <workItem from="1591787763451" duration="6297000" />
+      <workItem from="1591842680502" duration="2168000" />
+      <workItem from="1591861706733" duration="4345000" />
+      <workItem from="1591952091355" duration="1525000" />
+      <workItem from="1591962476664" duration="1855000" />
+      <workItem from="1592137865287" duration="27000" />
+      <workItem from="1592748323168" duration="1596000" />
+      <workItem from="1592815274009" duration="1142000" />
+      <workItem from="1592838113930" duration="1566000" />
+      <workItem from="1592898759917" duration="2928000" />
+      <workItem from="1592916186692" duration="114000" />
+      <workItem from="1592920023485" duration="2094000" />
+      <workItem from="1592992354969" duration="4206000" />
+      <workItem from="1593006725129" duration="1270000" />
+      <workItem from="1593311157531" duration="58000" />
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26596606" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info active="true" anchor="right" id="Debug" order="5" visible="true" weight="0.41794664" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="598" height="156" key="GridCell.Tab.0.bottom" timestamp="1593007217535">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1591953322074" />
+    <state width="598" height="156" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1593007217535" />
+    <state width="598" height="156" key="GridCell.Tab.0.center" timestamp="1593007217535">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1591953322073" />
+    <state width="598" height="156" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1593007217535" />
+    <state width="598" height="156" key="GridCell.Tab.0.left" timestamp="1593007217535">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1591953322073" />
+    <state width="598" height="156" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1593007217535" />
+    <state width="598" height="156" key="GridCell.Tab.0.right" timestamp="1593007217535">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1591953322073" />
+    <state width="598" height="156" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1593007217535" />
+    <state width="534" height="371" key="GridCell.Tab.1.bottom" timestamp="1593005215498">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="458" height="393" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1591799201293" />
+    <state width="534" height="371" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1593005215498" />
+    <state width="534" height="371" key="GridCell.Tab.1.center" timestamp="1593005215497">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="458" height="393" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1591799201293" />
+    <state width="534" height="371" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1593005215497" />
+    <state width="534" height="371" key="GridCell.Tab.1.left" timestamp="1593005215497">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="458" height="393" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1591799201293" />
+    <state width="534" height="371" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1593005215497" />
+    <state width="534" height="371" key="GridCell.Tab.1.right" timestamp="1593005215498">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="458" height="393" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1591799201293" />
+    <state width="534" height="371" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1593005215498" />
+    <state x="340" y="176" key="com.intellij.ide.util.TipDialog" timestamp="1593311187470">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="340" y="176" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1593311187470" />
+    <state x="2283" y="188" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1591952124124" />
+    <state x="340" y="176" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1593006749395" />
+    <state x="324" y="46" width="672" height="634" key="search.everywhere.popup" timestamp="1592995420579">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="2266" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1591779830105" />
+    <state x="324" y="46" width="672" height="634" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1592995420579" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/link_lesson/single_link.py</url>
+          <line>87</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/link_lesson/double_link.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/link_lesson/double_link.py</url>
+          <line>97</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/link_lesson/double_link.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/link_lesson/double_link.py</url>
+          <line>106</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/link_lesson/double_link.py</url>
+          <line>103</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/link_lesson/double_link.py</url>
+          <line>102</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/link_lesson/double_link.py</url>
+          <line>104</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sort_follow/bubble_sort.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sort_follow/shell_sort.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sort_follow/fast_follow.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sort_follow/fast_follow.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sort_follow/fast_follow.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sort_follow/fast_follow.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tree_follow/binary_tree.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tree_follow/binary_tree.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/code_follow$stack_.coverage" NAME="stack_ Coverage Results" MODIFIED="1591953322048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stack_and_queue" />
+    <SUITE FILE_PATH="coverage/code_follow$abc.coverage" NAME="abc Coverage Results" MODIFIED="1591104172155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
+    <SUITE FILE_PATH="coverage/code_follow$queue_.coverage" NAME="queue_ Coverage Results" MODIFIED="1591962963583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stack_and_queue" />
+    <SUITE FILE_PATH="coverage/code_follow$choose_sort.coverage" NAME="choose_sort Coverage Results" MODIFIED="1592815883754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sort_follow" />
+    <SUITE FILE_PATH="coverage/code_follow$insert_sort.coverage" NAME="insert_sort Coverage Results" MODIFIED="1592839493119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sort_follow" />
+    <SUITE FILE_PATH="coverage/code_follow$03_single_link_list.coverage" NAME="03_single_link_list Coverage Results" MODIFIED="1591620810774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../截图和代码/第01天/code_day01/code" />
+    <SUITE FILE_PATH="coverage/code_follow$double_link.coverage" NAME="double_link Coverage Results" MODIFIED="1591799196013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/link_lesson" />
+    <SUITE FILE_PATH="coverage/code_follow$double_queque.coverage" NAME="double_queque Coverage Results" MODIFIED="1591963427303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stack_and_queue" />
+    <SUITE FILE_PATH="coverage/code_follow$fast_follow.coverage" NAME="fast_follow Coverage Results" MODIFIED="1593007193210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sort_follow" />
+    <SUITE FILE_PATH="coverage/code_follow$single_link__1_.coverage" NAME="single_link (1) Coverage Results" MODIFIED="1591843064354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/link_lesson" />
+    <SUITE FILE_PATH="coverage/code_follow$shell_sort.coverage" NAME="shell_sort Coverage Results" MODIFIED="1592993868790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sort_follow" />
+    <SUITE FILE_PATH="coverage/code_follow$single_circle.coverage" NAME="single_circle Coverage Results" MODIFIED="1591952632613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/link_lesson" />
+    <SUITE FILE_PATH="coverage/code_follow$link_tools.coverage" NAME="link_tools Coverage Results" MODIFIED="1591620925416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/link_lesson" />
+    <SUITE FILE_PATH="coverage/code_follow$time_test.coverage" NAME="time_test Coverage Results" MODIFIED="1591619971584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
+    <SUITE FILE_PATH="coverage/code_follow$bubble_sort.coverage" NAME="bubble_sort Coverage Results" MODIFIED="1592749023270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sort_follow" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>alist[low]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sort_follow/bubble_sort.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack_and_queue/queue_.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree_follow/binary_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1325">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
