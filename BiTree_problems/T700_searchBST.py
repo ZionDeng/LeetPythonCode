@@ -12,7 +12,7 @@ class TreeNode:
 
 
 class Solution:
-    def searchBST(self, root: TreeNode, val: int) -> TreeNode:
+    def searchBST(self, root: TreeNode, val: int):
         if root is None:
             return
         else:

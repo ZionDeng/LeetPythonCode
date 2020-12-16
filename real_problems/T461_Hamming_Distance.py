@@ -2,6 +2,7 @@ class Solution:
     def hammingDistance(self, x: int, y: int) -> int:
         return bin(x ^ y).count("1")
 
+        
         # result = 0
         # while y > 0 oxr x > 0:
         #

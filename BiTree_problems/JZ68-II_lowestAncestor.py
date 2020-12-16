@@ -6,7 +6,7 @@ from binary_tree import *
 
 
 class Solution:
-    def lowestCommonAncestor(self, root: TreeNode, p: TreeNode, q: TreeNode) -> TreeNode:
+    def lowestCommonAncestor(self, root: TreeNode, p: TreeNode, q: TreeNode):
         # 三种情况：
         # 1. 一个在左一个在右，2. 走在左； 3. 都在右
         if root is None:

@@ -10,12 +10,12 @@ class TreeNode:
 
 
 class Solution:
-    def rangeSumBST(self, root: TreeNode, L: int, R: int) -> int:
+    def rangeSumBST(self, root: TreeNode, L: int, R: int):
         result = 0
 
         return result
 
-    def sortedArrayToBST(self, nums: List[int]) -> TreeNode:
+    def sortedArrayToBST(self, nums: List[int]):
         # 递归（数组）：取中间值；左边=递归（左边）；右边=递归（右边）
         if len(nums) <= 0:
             return None

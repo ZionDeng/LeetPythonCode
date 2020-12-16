@@ -28,7 +28,7 @@ class TreeNode:
 
 
 class Solution:
-    def increasingBST(self, root: TreeNode) -> TreeNode:
+    def increasingBST(self, root: TreeNode):
 
         s = []
         dummy = TreeNode(0)

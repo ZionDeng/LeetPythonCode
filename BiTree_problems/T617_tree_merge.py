@@ -42,7 +42,7 @@ def sortedArrayToBST(nums: List[int]) -> TreeNode:
 
 
 class Solution:
-    def mergeTrees(self, t1: TreeNode, t2: TreeNode) -> TreeNode:
+    def mergeTrees(self, t1: TreeNode, t2: TreeNode):
         # if t1 and t2 :
         #     t1.val += t2.val
         #     t1.left = self.mergeTrees(t1.left, t2.left)
