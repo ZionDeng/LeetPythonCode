@@ -1,4 +1,7 @@
 def maxAddSub(a, start, end):
+    '''
+    idea: divide it to 3 parts: left/ right/ both
+    '''
     if end == start:
         return a[start]
 
@@ -21,6 +24,31 @@ def maxAddSub(a, start, end):
     m3 = left + right 
     return max(m1,m2,m3)
 
+
+def maxAddSub_dyn(a):
+    res = a[0]
+    sum_a = a[0]
+    for i in range(1,len(a) -1,1):
+        # if sum_a > 0:
+        #     sum_a += a[i]
+        # else:
+        #     sum_a = a[i]
+        # if sum_a  > res: 
+        #     res = sum_a 
+
+        sum_a = sum_a + a[i] if sum_a > 0 else a[i]
+        res = max(res,sum_a)
+    return res 
+
+def maxAddSub_lst(a):
+    res = [a[0]]
+    it = [a[0]]
+    for i in range(1,len(a)-1,1):
+        it = it + [a[i]] if sum(it) > 0 else [a[i]]
+        res = max(it,res)
+    return res 
+
+
 if __name__ == '__main__':
     a = [1,-2,3,10,-4,7,2,-5]
 
@@ -28,3 +56,6 @@ if __name__ == '__main__':
     
     # 3 10 -4 7 2 
     # but I failed in print the list 
+
+    print(maxAddSub_dyn(a))
+    print(maxAddSub_lst(a))
