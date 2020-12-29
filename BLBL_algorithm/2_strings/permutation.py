@@ -17,3 +17,18 @@ def permutation(string, begin, end):
         
 
 permutation('1223',0, 3)
+
+# 非递归算法：按字典顺序
+# 后找,小大,交换,翻转
+# 21543 -> 23145
+
+# def next_permutation(string):
+#     s = list(string)
+#     end = len(string) 
+#     start = 0 
+#     while end > 0:
+#         q = end 
+#         end -= 0 
+#         if s[end] < s[start]:
+#             p_find = p_end 
+#             while s[p_find] <= s[end]
