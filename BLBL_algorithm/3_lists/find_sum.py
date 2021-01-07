@@ -47,7 +47,7 @@ def allSum(ls, target):
         enum_number(x, i+1, has)
     enum_number(x, i, has)
     
-
+ 
 
 ls = [1,2,3,4,5]
 print('original list is: ', ls)

@@ -1,1 +1,0 @@
-ls[j] for j,t in enumerate(x)
