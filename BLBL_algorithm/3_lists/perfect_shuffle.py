@@ -18,15 +18,16 @@ def cycleLeader(a,start, mod):
 # print(ls)
 
 
-def right_rotate(ls,start, end):
+def right_rotate(ls, start, end):
     pass 
 def perfect_shuffle(a, n):
     while n > 1:
         n2 = n * 2 
         k, m = 0, 1 
         while n2 / m >= 3:
-            m /= 2 
-            right_rotate(a+m,m,n)
+            m //= 2 
+
+            right_rotate(a[m:],m,n)
             i, t = 0, 1 
             while i < k: 
                 cycleLeader(a,t, m*2 + 1)
