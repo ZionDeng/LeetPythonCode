@@ -94,16 +94,66 @@ class Tree(object):
         self.root = r1
 
         # return r1
+    def height(self,root):
+        '''获取节点的高度'''
+        if root is None:
+            return 0
+        h = 1
+        h += max(self.height(root.left), self.height(root.right))
+        return h
 
-    def print_height(self):
-        '''打印树的高度'''
-        def height(root):
-            if root is None:
-                return 0
-            h = 1
-            h += max(height(root.left), height(root.right))
-            return h
-        print(height(self.root))
+    def bbt_insert(self, root, x):
+        '''
+        method to insert x into balanced_binary_trees
+        root: the root of the tree 
+        x: the value that we want to insert 
+        '''
+
+        def singleRotateLeft(root):
+            '''平衡二叉树的单左旋转方法'''
+            r0, r1 = root, root.left 
+            r0.left, r1.right = r1.right, r0
+
+            return r1
+
+        def singleRotateRight(root):
+            '''平衡二叉树的单右旋转方法'''
+            r0, r1 = root, root.right 
+            r0.right, r1.left = r1.left, r0
+
+            return r1
+
+        def doubleRotateLR(root):
+            '''平衡二叉树，双旋转，左右'''
+            root.left = singleRotateRight(root.left)
+            root = singleRotateLeft(root)
+            return root 
+
+        def doubleRotateRL(root):
+            '''平衡二叉树，双旋转，右左'''
+            root.right = singleRotateLeft(root.right)
+            root = singleRotateRight(root)
+            return root 
+        if root is None:  
+            node = TreeNode(x)
+            return node 
+        if x < root.val: 
+            root.left = self.bbt_insert(root.left, x)  # 向左插入x 
+            if self.height(root.left) - self.height(root.right) == 2:
+                # 不平衡
+                if x < root.left.val:  # 左左
+                    root = singleRotateLeft(root)
+                else:  # 左右
+                    root = doubleRotateLR(root)
+        else: 
+            root.right = self.bbt_insert(root.right, x)  # 向右插入x
+            if self.height(root.right) - self.height(root.left) == 2:
+                if x > root.right.val:  # 右右
+                    root = singleRotateRight(root)
+                else:  # 右左
+                    root = doubleRotateRL(root)
+        return root 
+
 
     def breadth_travel(self):
         """广度遍历"""

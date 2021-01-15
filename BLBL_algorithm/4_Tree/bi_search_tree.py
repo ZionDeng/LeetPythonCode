@@ -110,6 +110,6 @@ for i in ls_new:
 tree.breadth_travel()
 print(" < BST travel")
 # tree.bst_delete(tree.root, 12)
-tree.root = tree.bst_delete2(tree.root, 12)
+tree.root = tree.bst_delete(tree.root, 12)
 tree.breadth_travel()
 print(" < BST travel after deleted")
